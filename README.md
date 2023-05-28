@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 Afterwards the individual experiments can be reproduced using [`dvc`](https://dvc.org/).
 ```bash
-dvc repro <TASK>/<EXPERIMENT>
+dvc repro <TASK>/<PRETRAINED_MODEL>/<STRATEGY>
 ```
 
 ## results
